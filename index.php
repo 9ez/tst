@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>Web tests</title>
+    <title>3</title>
     <script src="https://vk.com/js/api/openapi.js?160" type="text/javascript"></script>
     <style>img[alt="www.000webhost.com"]{display:none;}</style>
   <script>
