@@ -6,7 +6,7 @@ echo '<style>img[alt="www.000webhost.com"]{display:none;}</style>'
   else echo "WebSockets UNAVAILABLE";
 ?>
 <?php
-$mysqli = new mysqli("localhost", "id8876592_izzi", "5jtug7h6y", "id8876592_test");
+$mysqli = new mysqli("localhost", "*********", "*********", "***********");
 if ($mysqli->connect_errno) {
     echo "Не удалось подключиться к MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 }
